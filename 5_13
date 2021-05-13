@@ -4,3 +4,21 @@
     true && alert("Will this show? .. C");
     false && alert("Will this show? .. C");
 </script>
+
+//
+
+script type="text/javascript">
+var num;
+num = prompt("Please enter an hour: ","");
+    if (num<=10){
+        alert("Good Morning")
+    }
+    else if (num>10, num<=18){
+        alert("Good Day")
+    }
+    else (num>18){
+       alert("Good Evening")
+    }
+</script>
+
+//
