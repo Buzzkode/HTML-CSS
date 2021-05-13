@@ -1,0 +1,6 @@
+<script type="text/javascript">
+    true || alert("Will this show? .. A");
+    false || alert("Will this show? .. B");
+    true && alert("Will this show? .. C");
+    false && alert("Will this show? .. C");
+</script>
